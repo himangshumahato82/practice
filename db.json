@@ -1,0 +1,49 @@
+{
+  "data": [
+  {
+    "id": "1",
+    "department": "Single Room",     
+    "category": "Eat That Frog",
+    "img": "https://htmldemo.net/oestin/oestin/img/room/l-1.jpg",
+    "brand": "Welcome to our Single Room, a spacious accommodation spanning 70 square meters, designed to comfortably accommodate two persons. As you step inside, you'll immediately notice the abundance of natural light that fills the room, creating a warm and inviting atmosphere.",
+    "name": "Single Room",
+    "strikedprice": "1647",
+    "price": "1497",
+    "product_type": "Eat That Frog"
+  },
+  {
+    "id": "2",
+    "department": "Royal Suit",
+    "category": "Eat That Frog",
+    "img": "https://htmldemo.net/oestin/oestin/img/room/l-2.jpg",
+    "brand": "Welcome to our Single Room, a spacious accommodation spanning 70 square meters, designed to comfortably accommodate two persons. As you step inside, you'll immediately notice the abundance of natural light that fills the room, creating a warm and inviting atmosphere. The room is equipped with modern amenities to ensure a pleasant stay. Stay connected with our complimentary high-speed internet access, allowing you to browse the web or catch up on work effortlessly. Wake up to a delicious and satisfying breakfast, which is included with your stay, providing you with the energy you need for a day of adventures. One of the highlights of our Single Room is the private balcony, where you can unwind and soak in breathtaking views of the nearby beach. Imagine sipping your morning coffee or enjoying a glass of wine as you take in the refreshing sea breeze and marvel at the beauty of the coastline. For your convenience, a complimentary newspaper is delivered to your room each day, keeping you informed about the latest news and events. The room is fully air-conditioned, allowing you to personalize the temperature to your liking and ensuring your comfort throughout your stay. Whether you're traveling for business or leisure, our Single Room offers a serene and tranquil retreat, combining modern amenities with a stunning beach view. We strive to make your stay as comfortable as possible, providing a seamless experience and creating lasting memories.",
+    "name": "Royal Suit",
+    "strikedprice": "1647",
+    "price": "1497",
+    "product_type": "Eat That Frog"
+  },
+  {
+    "id": "3",
+     "department": "Delux Suit",
+    "category": "Eat That Frog",
+    "img": "https://htmldemo.net/oestin/oestin/img/room/l-3.jpg",
+    "brand": "Welcome to our Single Room, a spacious accommodation spanning 70 square meters, designed to comfortably accommodate two persons. As you step inside, you'll immediately notice the abundance of natural light that fills the room, creating a warm and inviting atmosphere. The room is equipped with modern amenities to ensure a pleasant stay. Stay connected with our complimentary high-speed internet access, allowing you to browse the web or catch up on work effortlessly. Wake up to a delicious and satisfying breakfast, which is included with your stay, providing you with the energy you need for a day of adventures. One of the highlights of our Single Room is the private balcony, where you can unwind and soak in breathtaking views of the nearby beach. Imagine sipping your morning coffee or enjoying a glass of wine as you take in the refreshing sea breeze and marvel at the beauty of the coastline. For your convenience, a complimentary newspaper is delivered to your room each day, keeping you informed about the latest news and events. The room is fully air-conditioned, allowing you to personalize the temperature to your liking and ensuring your comfort throughout your stay. Whether you're traveling for business or leisure, our Single Room offers a serene and tranquil retreat, combining modern amenities with a stunning beach view. We strive to make your stay as comfortable as possible, providing a seamless experience and creating lasting memories.",
+    "name": "Delux Suit",
+    "strikedprice": "1647",
+    "price": "1497",
+    "product_type": "Eat That Frog"
+  },
+  {
+    "id": "4",
+    "department": "Double Room",
+    "category": "Eat That Frog",
+    "img": "https://htmldemo.net/oestin/oestin/img/room/l-4.jpg",
+    "brand": "Welcome to our Single Room, a spacious accommodation spanning 70 square meters, designed to comfortably accommodate two persons. As you step inside, you'll immediately notice the abundance of natural light that fills the room, creating a warm and inviting atmosphere. The room is equipped with modern amenities to ensure a pleasant stay. Stay connected with our complimentary high-speed internet access, allowing you to browse the web or catch up on work effortlessly. Wake up to a delicious and satisfying breakfast, which is included with your stay, providing you with the energy you need for a day of adventures. One of the highlights of our Single Room is the private balcony, where you can unwind and soak in breathtaking views of the nearby beach. Imagine sipping your morning coffee or enjoying a glass of wine as you take in the refreshing sea breeze and marvel at the beauty of the coastline. For your convenience, a complimentary newspaper is delivered to your room each day, keeping you informed about the latest news and events. The room is fully air-conditioned, allowing you to personalize the temperature to your liking and ensuring your comfort throughout your stay. Whether you're traveling for business or leisure, our Single Room offers a serene and tranquil retreat, combining modern amenities with a stunning beach view. We strive to make your stay as comfortable as possible, providing a seamless experience and creating lasting memories.",
+    "name": "Double Room",
+    "strikedprice": "1647",
+    "price": "1497",
+    "product_type": "Eat That Frog"
+  }
+ 
+]
+}
